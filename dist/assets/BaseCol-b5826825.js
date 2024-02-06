@@ -1,1 +1,0 @@
-import{o as a,k as l,j as r,M as t}from"./index-e738b001.js";const p={__name:"BaseCol",props:{colClass:{type:String}},setup(s){const e=s;return(o,c)=>(a(),l("div",{class:t(["p-2",e.colClass])},[r(o.$slots,"default")],2))}};export{p as _};
