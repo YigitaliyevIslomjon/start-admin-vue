@@ -1,0 +1,1 @@
+import{r as l,o as r,g as s,w as n,j as a}from"./index-ac6dd6ea.js";const m={__name:"LinkableCell",props:{to:{type:Object,default:()=>{}}},setup(e){return(t,c)=>{const o=l("router-link");return r(),s(o,{to:e.to,class:"flex items-center w-full h-full text-sm font-medium text-greyscale-500"},{default:n(()=>[a(t.$slots,"default")]),_:3},8,["to"])}}};export{m as _};
