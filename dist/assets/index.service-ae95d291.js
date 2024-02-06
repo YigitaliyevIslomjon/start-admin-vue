@@ -1,1 +1,0 @@
-import{c as e}from"./axios.config-ef995fdf.js";const o={compose:"compose/1"},n=t=>e.get(`${o.compose}/`,t),m=t=>e.post(`${o.compose}/`,t),r=({id:t,body:c})=>e.put(`${o.compose}/${t}/`,c),p=t=>e.get(`${o.compose}/${t}/`);export{p as a,r as b,m as c,n as f};
