@@ -1,1 +1,0 @@
-import{Z as o,o as s,k as n,j as t}from"./index-bafc0b2f.js";const c={},r={class:"flex flex-wrap -mx-2"};function _(e,a){return s(),n("div",r,[t(e.$slots,"default")])}const f=o(c,[["render",_]]);export{f as _};
