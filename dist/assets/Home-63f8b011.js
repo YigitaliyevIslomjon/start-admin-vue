@@ -1,1 +1,0 @@
-import{Z as e,o,k as s}from"./index-f61b4211.js";const c={},a={class:"dashboard-home flex w-full"};function r(t,n){return o(),s("div",a," Dashboard home ")}const d=e(c,[["render",r]]);export{d as default};
