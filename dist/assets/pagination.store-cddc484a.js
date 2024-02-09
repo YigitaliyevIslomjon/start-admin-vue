@@ -1,1 +1,0 @@
-import{t}from"./index-6314a302.js";const i=t("pagination-store",{state:()=>({page:1,pageSize:10,firstRow:0}),actions:{resetPagination(){this.page=1,this.pageSize=10,this.firstRow=0}}});export{i as u};
