@@ -1,0 +1,1 @@
+import{a0 as e,o,k as s}from"./index-fd7b041c.js";const a={},c={class:"dashboard-home flex w-full"};function r(t,n){return o(),s("div",c," Dashboard home ")}const d=e(a,[["render",r]]);export{d as default};
