@@ -1,1 +1,0 @@
-const r=(s,a=window.navigator.language)=>{const n=[],t=new Date,o={hour:"numeric",minute:"numeric"};for(let e=480;e<1140;e=e+s)t.setHours(0),t.setMinutes(e),n.push({id:e,time:t.toLocaleTimeString(a,o),disabled:!1});return n};export{r as g};
