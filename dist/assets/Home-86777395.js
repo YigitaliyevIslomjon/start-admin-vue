@@ -1,0 +1,1 @@
+import{a0 as e,o,k as n}from"./index-37f394b3.js";const a={},c={class:"kanban-home flex w-full"};function s(t,r){return o(),n("div",c," Kanban home ")}const f=e(a,[["render",s]]);export{f as default};
