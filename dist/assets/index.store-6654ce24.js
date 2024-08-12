@@ -1,1 +1,0 @@
-import{t as e}from"./index-3428901b.js";const o=e("profile-store",{state:()=>({routes:{title:"Профиль",icon:"UserIcon",link:"ProfileIndex",children:[{title:"Персональный",icon:"TimeHistoryIcon",link:"PersonalIndex"},{title:"Рабочий",icon:"TimeHistoryIcon",link:"WorkIndex"},{title:"Моя зарплата",icon:"TimeHistoryIcon",link:"SalaryIndex"}]}}),actions:{}});export{o as p};
