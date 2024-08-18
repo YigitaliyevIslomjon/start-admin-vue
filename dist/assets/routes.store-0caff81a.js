@@ -1,1 +1,0 @@
-import{t as e,N as t,ce as n,bz as o}from"./index-c6caad8a.js";const r=e("agreements-routes-store",{state:()=>({routes:{title:"Согласия",icon:t,link:"AgreementsIndex",children:[{title:"Неподписанный",icon:n,link:"AgreementNotSigned",count:7},{title:"Подписанный",icon:o,link:"AgreementSigned"}]}}),actions:{}});export{r as u};
