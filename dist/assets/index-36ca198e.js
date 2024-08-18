@@ -1,1 +1,0 @@
-import{_ as t}from"./TheNavigation-db1bfef0.js";import{u as s}from"./routes.store-31f24655.js";import{r as n,o as a,k as m,p as e,q as c,z as u}from"./index-5e95ef04.js";const d={__name:"index",setup(_){const o=s();return(p,l)=>{const r=n("router-view");return a(),m(u,null,[e(t,{navs:c(o).routes.children},null,8,["navs"]),e(r)],64)}}};export{d as default};
