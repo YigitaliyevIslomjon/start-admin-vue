@@ -1,1 +1,0 @@
-import{x as o,o as r,k as n,E as a,q as c}from"./index-69baeb05.js";const p={class:"text-sm font-medium text-greyscale-500"},m={__name:"DocType",props:{type:{type:String,default:"",required:!0}},setup(e){const t=e,{t:s}=o();return(u,_)=>(r(),n("span",p,a(c(s)(t.type)),1))}};export{m as _};
