@@ -1,1 +1,0 @@
-import{o as r,g as e,q as t,c4 as n,_ as a}from"./index-c8ebad57.js";const p={__name:"ExportButton",setup(c){return(s,_)=>{const o=a;return r(),e(o,{color:"bg-primary-0 hover:bg-greyscale-100 text-primary-dark","border-color":"border-transparent",label:"export","icon-color":"#767994","icon-left":t(n),rounded:"",shadow:"",type:"button"},null,8,["icon-left"])}}};export{p as _};
