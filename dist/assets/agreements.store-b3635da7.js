@@ -1,1 +1,0 @@
-import{t as e}from"./index-1c549f7f.js";const a=e("agreements-store",{state:()=>({headers:[{header:"Название документа",field:"name",active:!0},{header:"Статус",field:"status",active:!0},{header:"Дата",field:"date",active:!0}],notSignedList:[],notSignedCount:0,signedList:[]}),actions:{}});export{a as u};
