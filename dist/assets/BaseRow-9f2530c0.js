@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{o as s,k as n,j as r}from"./index-d830192c.js";const t={},_={class:"flex flex-wrap -mx-2"};function c(e,a){return s(),n("div",_,[r(e.$slots,"default")])}const m=o(t,[["render",c]]);export{m as _};
