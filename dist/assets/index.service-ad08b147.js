@@ -1,0 +1,1 @@
+import{c as e}from"./axios.config-422904d0.js";const o={compose:"compose/1"},n=t=>e.get(`${o.compose}/`,t),m=t=>e.post(`${o.compose}/`,t),p=({id:t,body:c})=>e.put(`${o.compose}/${t}/`,c),r=t=>e.get(`${o.compose}/${t}/`),u=({id:t,body:c})=>e.put(`${o.compose}/${t}/custom-update/`,c);export{u as a,r as b,p as c,m as d,n as f};
