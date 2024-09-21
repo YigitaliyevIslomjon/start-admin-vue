@@ -1,1 +1,0 @@
-import{b0 as l}from"./index-a6bbad0f.js";import{c as s}from"./axios.config-71bfb7f1.js";const r={list:"all-urls"},o=t=>s.get(`${r.list}/`,t),i=l("all-url-store",{state:()=>({list:[]}),actions:{async getAllUrls(){let{data:t}=await o();this.list=t}}});export{i as u};
