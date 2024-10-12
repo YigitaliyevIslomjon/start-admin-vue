@@ -1,0 +1,1 @@
+import{t as o,o as r,k as n,A as a,q as c}from"./index-5cbdbebb.js";const p={class:"text-sm font-medium text-greyscale-500"},m={__name:"DocType",props:{type:{type:String,default:"",required:!0}},setup(t){const e=t,{t:s}=o();return(u,_)=>(r(),n("span",p,a(c(s)(e.type)),1))}};export{m as _};
