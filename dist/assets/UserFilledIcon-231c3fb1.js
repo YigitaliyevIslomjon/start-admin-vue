@@ -1,1 +1,0 @@
-import{o,c,a as e}from"./index-859a0822.js";const l={xmlns:"http://www.w3.org/2000/svg",fill:"none",viewBox:"0 0 16 16"},t=e("circle",{cx:"8",cy:"4.001",r:"2.667",fill:"#635AFF"},null,-1),s=e("ellipse",{cx:"8",cy:"11.333",fill:"#635AFF",rx:"4.667",ry:"2.667"},null,-1),n=[t,s];function r(i,a){return o(),c("svg",l,n)}const d={render:r};export{d as default,r as render};
