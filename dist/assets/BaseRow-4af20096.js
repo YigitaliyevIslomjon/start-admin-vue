@@ -1,1 +1,0 @@
-import{al as o,o as s,c as n,r as c}from"./index-f1837c93.js";const r={},t={class:"flex flex-wrap -mx-2"};function _(e,a){return s(),n("div",t,[c(e.$slots,"default")])}const f=o(r,[["render",_]]);export{f as _};
