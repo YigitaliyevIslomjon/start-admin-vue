@@ -1,1 +1,0 @@
-const _="SD_INNER_COLUMNS",s="SD_TOOLBAR_MENU",E=8,n="inner",S="SendDocumentsList",t="SendDocumentsDetail",R="SendDocumentsCreate",o="trip_info",T="work_plan",N="route";export{R,E as S,s as a,_ as b,t as c,n as d,S as e,o as f,T as g,N as h};
