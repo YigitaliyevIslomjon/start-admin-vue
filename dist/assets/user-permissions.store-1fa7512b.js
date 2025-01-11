@@ -1,1 +1,0 @@
-import{aD as e}from"./index-24dd9f4d.js";import{c as i}from"./axios.config-9c6beccc.js";const r={list:"my-permissions"},t=s=>i.get(`${r.list}/`,s),a=e("user-permissions",{state:()=>({userPermissions:[]}),actions:{async getUserPermisission(){let{data:s}=await t();this.userPermissions=s},canAccess(s){return!0}}});export{a as u};
