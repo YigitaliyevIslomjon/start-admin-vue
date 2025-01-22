@@ -1,0 +1,1 @@
+const O="BOXES_INCOMING_COLUMNS",S="BOXES_ASSIGNMENT_COLUMNS",_="BOXES_CONTROL_COLUMNS",N="BOXES_SIGN_COLUMNS",L="BOXES_APPROVAL_COLUMNS",s="SignShow",C="ApprovalShow";export{O as B,s as R,S as a,N as b,L as c,C as d,_ as e};
