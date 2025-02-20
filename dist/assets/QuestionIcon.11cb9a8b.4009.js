@@ -1,1 +1,0 @@
-const s="/assets/QuestionIcon.d15a41c9.8137.svg";export{s as default};
