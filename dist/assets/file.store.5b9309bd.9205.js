@@ -1,1 +1,0 @@
-import{aw as o}from"./index.44508f29.65.js";import{f as r}from"./file.service.6d1d961c.9205.js";const a=o("file-blob",{state:()=>({loading:!0}),actions:{async actionGetBlobFile(t){try{this.loading=!0;const e=await r(t);return Promise.resolve(e)}catch(e){return Promise.reject(e)}finally{this.loading=!1}}}});export{a as u};
