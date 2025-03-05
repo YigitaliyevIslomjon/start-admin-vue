@@ -1,0 +1,1 @@
+const o="/assets/DoubleAltArrowDownIcon.3c190cf8.5689.svg";export{o as default};
