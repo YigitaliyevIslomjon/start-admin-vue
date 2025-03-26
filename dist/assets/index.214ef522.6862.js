@@ -1,1 +1,0 @@
-const s="HR_BUSINESS_TRIP_COLUMNS",_="BusinessTripDetail",R="BusinessTripProcess",S="BusinessTripCertificate",T="BusinessTripAdvanceReportList",E="BusinessTripAdvanceReportCreate";export{s as H,_ as R,R as a,T as b,E as c,S as d};
