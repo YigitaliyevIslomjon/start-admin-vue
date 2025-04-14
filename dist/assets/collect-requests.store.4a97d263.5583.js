@@ -1,0 +1,1 @@
+import{as as t}from"./index.fb7c31aa.9830.js";const i=t("collect-requests",{state:()=>({requests:[]}),actions:{actionAddRequests(s){this.requests.find(e=>e.id===s.id)||this.requests.push({...s,date:123456})},async actionResendRequests(){for(const s of this.requests)await s.fn(s.params)}}});export{i as u};
