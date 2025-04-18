@@ -1,1 +1,0 @@
-const c="/assets/CheckCircleIcon.01fda413.3884.svg";export{c as default};

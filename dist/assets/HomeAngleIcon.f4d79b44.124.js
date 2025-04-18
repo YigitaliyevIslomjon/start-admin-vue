@@ -1,1 +1,0 @@
-const e="/assets/HomeAngleIcon.9fb98a63.3884.svg";export{e as default};
