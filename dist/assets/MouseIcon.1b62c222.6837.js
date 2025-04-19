@@ -1,0 +1,1 @@
+const s="/assets/MouseIcon.50110dba.433.svg";export{s as default};
