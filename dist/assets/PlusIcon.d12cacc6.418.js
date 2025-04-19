@@ -1,0 +1,1 @@
+const s="/assets/PlusIcon.31fb7fc3.8795.svg";export{s as default};
