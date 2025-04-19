@@ -1,0 +1,1 @@
+const t="/assets/DocumentTextIcon.9b3793ab.3357.svg";export{t as default};
