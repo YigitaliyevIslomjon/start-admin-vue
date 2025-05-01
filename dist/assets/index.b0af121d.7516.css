@@ -1,0 +1,1 @@
+.table-linear .p-datatable-thead tr th:first-child{border-top-left-radius:8px;border-bottom-left-radius:8px}.table-linear .p-datatable-thead tr th:last-child{border-top-right-radius:8px;border-bottom-right-radius:8px}.table-linear .p-rowgroup-header>td{padding:0!important;border-bottom:none}.table-linear,.p-datatable{height:100%;display:flex;flex-direction:column}
