@@ -1,1 +1,0 @@
-const d="/assets/XIcon.ddd4bddc.911.svg";export{d as default};
