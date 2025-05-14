@@ -1,1 +1,0 @@
-import{o as r,c as a,n as c}from"./index.28c32e81.2750.js";const n={__name:"Divider",props:{class:{type:String,default:""}},setup(e){const s=e;return(o,t)=>(r(),a("div",{class:c(["border border-greyscale-200",s.class])},null,2))}};export{n as _};
