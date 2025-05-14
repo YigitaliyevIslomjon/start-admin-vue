@@ -1,0 +1,1 @@
+import{c as e}from"./axios.config.6a89af3a.5323.js";const o={docflow:"docflow/1",resolutionTree:"resolution-tree"},r=t=>e.get(`${o.docflow}/`,t),n=t=>e.post(`${o.docflow}/`,t),s=t=>e.get(`${o.docflow}/${t}/`),f=t=>e.put(`${o.docflow}/${t.id}/`,t.body),u=t=>e.get(`${o.docflow}/${t}/${o.resolutionTree}/`);export{n as a,s as b,f as c,u as d,r as f};
