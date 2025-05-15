@@ -1,1 +1,0 @@
-import{as as t}from"./index.f76d6ade.3887.js";const i=t("pagination-stores",{state:()=>({page:1,pageSize:15,firstRow:0}),actions:{resetPagination(){this.page=1,this.pageSize=15,this.firstRow=0}}});export{i as u};
