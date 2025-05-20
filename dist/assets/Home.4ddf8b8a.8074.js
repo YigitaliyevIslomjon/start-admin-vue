@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper.c27b6911.8074.js";import{o,c}from"./index.d905fa78.9220.js";const n={},t={class:"kanban-home flex w-full"};function a(r,s){return o(),c("div",t," Kanban home ")}const m=e(n,[["render",a]]);export{m as default};
