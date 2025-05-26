@@ -1,1 +1,0 @@
-const o="/assets/AltArrowDownIcon.2bcbb203.7005.svg";export{o as default};
