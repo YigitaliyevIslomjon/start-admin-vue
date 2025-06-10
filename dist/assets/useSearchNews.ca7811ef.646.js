@@ -1,0 +1,1 @@
+import{ao as s,d as u}from"./index.d6a455a7.1890.js";import{r as t}from"./index.6feb39f7.646.js";const n=()=>{const r=s(),e=u(()=>r.query.search);let o=t(e,750);return{searchQuery:e,debouncedSearchQuery:o}};export{n as u};
