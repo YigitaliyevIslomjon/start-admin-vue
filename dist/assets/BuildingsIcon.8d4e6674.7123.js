@@ -1,1 +1,0 @@
-const s="/assets/BuildingsIcon.a035acf9.2684.svg";export{s as default};
