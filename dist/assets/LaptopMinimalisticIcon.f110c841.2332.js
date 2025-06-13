@@ -1,1 +1,0 @@
-const i="/assets/LaptopMinimalisticIcon.b53051e0.7834.svg";export{i as default};

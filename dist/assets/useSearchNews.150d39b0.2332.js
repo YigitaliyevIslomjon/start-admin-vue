@@ -1,1 +1,0 @@
-import{ao as s,d as u}from"./index.64356343.3776.js";import{r as t}from"./index.adada716.2332.js";const n=()=>{const r=s(),e=u(()=>r.query.search);let o=t(e,750);return{searchQuery:e,debouncedSearchQuery:o}};export{n as u};
