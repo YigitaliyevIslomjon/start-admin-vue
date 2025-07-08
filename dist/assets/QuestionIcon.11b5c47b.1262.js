@@ -1,0 +1,1 @@
+const s="/assets/QuestionIcon.d15a41c9.8431.svg";export{s as default};
