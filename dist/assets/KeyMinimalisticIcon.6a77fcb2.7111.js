@@ -1,0 +1,1 @@
+const i="/assets/KeyMinimalisticIcon.4aa94c32.9953.svg";export{i as default};
