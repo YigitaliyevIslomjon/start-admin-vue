@@ -1,1 +1,0 @@
-const e="/assets/UserFilledIcon.be29e1ae.1407.svg";export{e as default};
