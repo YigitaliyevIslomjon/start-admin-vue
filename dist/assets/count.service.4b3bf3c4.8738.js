@@ -1,1 +1,0 @@
-import{j as n}from"./axios.config.52a5517e.8738.js";const o={inbox:"unread-count",chat:"dashboard/unread-chat-counts"},e=(t={})=>n.get(`${o.inbox}/`,t),s=(t={})=>n.get(`${o.chat}/`,t);export{e as a,s as f};
