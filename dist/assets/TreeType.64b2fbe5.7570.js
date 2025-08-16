@@ -1,0 +1,1 @@
+import{o as e,c as t}from"./index.3b7f5a8a.3698.js";const c={__name:"TreeType",props:{value:{type:Array,default:()=>[]},isSearch:{type:Boolean},totalCount:{type:Number}},setup(r){return(a,o)=>(e(),t("div",null,"Tree type"))}};export{c as default};
