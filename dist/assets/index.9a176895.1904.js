@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper.c27b6911.1904.js";import{o as n,i as r}from"./index.01f558da.5885.js";const t={};function o(c,a){return n(),r("div",null," General Settings Page ")}const i=e(t,[["render",o]]);export{i as default};

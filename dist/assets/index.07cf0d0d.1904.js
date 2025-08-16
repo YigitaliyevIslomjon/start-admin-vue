@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper.c27b6911.1904.js";import{o as r,i as o}from"./index.01f558da.5885.js";const c={};function n(t,s){return r(),o("div",null,"Survey")}const f=e(c,[["render",n]]);export{f as default};
