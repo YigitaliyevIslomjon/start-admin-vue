@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper.c27b6911.7570.js";import{o as c,c as o}from"./index.3b7f5a8a.3698.js";const r={},t={class:"survey-constructor-view"};function s(n,_){return c(),o("div",t," Survey constructor view ")}const f=e(r,[["render",s]]);export{f as default};
