@@ -1,0 +1,1 @@
+import{u as o,o as r,c as n,t as a,h as c}from"./index.4eda51c6.7821.js";const p={class:"text-sm font-medium text-greyscale-500"},m={__name:"DocType",props:{type:{type:String,default:"",required:!0}},setup(t){const{t:e}=o(),s=t;return(u,_)=>(r(),n("span",p,a(c(e)(s.type)),1))}};export{m as _};
