@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.1688.js";import{o,i as r}from"./index.f2bdebf1.3263.js";const s={},c={class:"personal-view"};function n(t,a){return o(),r("div",c," personal ")}const f=e(s,[["render",n]]);export{f as default};

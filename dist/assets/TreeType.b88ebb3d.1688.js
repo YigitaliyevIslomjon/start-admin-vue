@@ -1,0 +1,1 @@
+import{o as e,i as t}from"./index.f2bdebf1.3263.js";const l={__name:"TreeType",props:{value:{type:Array,default:()=>[]},isSearch:{type:Boolean},totalCount:{type:Number}},setup(r){return(a,o)=>(e(),t("div",null,"Tree type"))}};export{l as default};
