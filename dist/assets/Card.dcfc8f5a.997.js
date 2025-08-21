@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.997.js";import{o as t,i as r,j as s}from"./index.b621b5ed.5350.js";const n={},c={class:"p-5 rounded-2xl bg-white shadow-button"};function a(o,d){return t(),r("div",c,[s(o.$slots,"default")])}const l=e(n,[["render",a]]);export{l as C};
